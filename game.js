@@ -341,7 +341,7 @@ document.querySelector('.btnWin').addEventListener('click', function () {
 })
 
 function random(){
-  let arr = ['作者想吃哥哥下的蛋,支持一下🏀', '请简单粗暴的爱我一分一分赏🐔', '给🐔哥一个面子好不好', '给真ikun一点支持吧🏀', '大爷,赏个鸡子呗🐔', '作者想吃哥哥下的蛋,支持一下🏀', '你的支持就是我的动力🏀','《鸡了个鸡》🐔需要您的支持']
+  let arr = ['夏源想哭哭🏀', '夏源很温顺的🐔', '给夏源一个面子好不好', '摸摸夏源的头awa🏀', '夏源想要你陪我wan🐔', '夏源想喝奶粉🏀', '夏源源陪你玩🏀','夏源好感度+1']
   let dsValue = arr[Math.floor(Math.random() * 7)]
   return dsValue
 }
